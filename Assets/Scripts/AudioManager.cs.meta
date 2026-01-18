@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cc18773970dd919429e7598f81902db7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSlider: {instanceID: 0}
+  - musicSliderTextMesh: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - musicMenu: {instanceID: 0}
+  - musicGame: {fileID: 8300000, guid: 7ff2d613a19194d48a1d8defbec4a249, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
