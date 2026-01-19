@@ -9,3 +9,10 @@ The game is played on a 6x6 grid.
     * Three "1"s in a row
 
 When the grid is full, the player with the highest score wins.
+
+
+Technical Highlights
+* **Grid System:** Custom 2D array logic for managing cell states and checking adjacencies.
+* **Pattern Matching Algorithm:** Recursive search algorithm to detect scoring combinations (horizontal/vertical) instantly after placement.
+* **AI Opponent:** Implemented a bot that evaluates available moves to block the player or maximize its own score.
+* **UI Architecture:** Dynamic UI updates decoupled from the game logic (Observer pattern / Events).
